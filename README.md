@@ -25,3 +25,16 @@ I'm Lucien, a developer with a passion for open-ended evolution
 
 ### Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/lucien-pineau/).
+
+### Stats
+<details>
+  <summary>Expand to see my stats !</summary>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathematisse&label=Profile%20views&color=0e75b6&style=flat" alt="mathematisse" /> </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathematisse&count_private=true&show_icons=true&locale=en&layout=compact" alt="mathematisse" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mathematisse&count_private=true&show_icons=true&locale=en" alt="mathematisse" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathematisse&count_private=true" alt="mathematisse" /></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathematisse" alt="mathematisse" /></a> </p>
+
+</details>
+
+
