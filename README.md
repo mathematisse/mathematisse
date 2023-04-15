@@ -13,13 +13,14 @@ I'm Lucien, a developer with a passion for open-ended evolution
 ### Projects
 #### Get a better look in my [Portfolio](https://mathematisse.github.io/Portfolio/) !
 #### Tools
-- [Mergaia](https://github.com/Mergaia): A devops experiment for my future projects
 - [UML_to_C](link-to-project-1): A generator of .c and .h files from a special class-diagram
-- [Libmycode](link-to-project-6): My personnal C library
+- [Libmycode](https://github.com/mathematisse/Libmycode): My personnal C library documented with doxygen
+- [Libmycsfml](https://github.com/mathematisse/Libmycsfml): My personnal CSFML library
 - [Code_Mall](link-to-project-1): Bash tool using UML_to_C & Libmycode to help start C projects
 - [UDots](https://github.com/mathematisse/Udots) A Template & Library for Unity projects using DOTS packages
+- [Mergaia](https://github.com/Mergaia): A devops experiment for my future projects
 #### Games
-- [My_Hunter](link-to-project-2): An Epitech project done on CSFML.
+- [My_Hunter](https://github.com/mathematisse/My_Hunter): An Epitech project done on CSFML.
 - [HSSD2](https://github.com/mathematisse/HSSD): A game made in a week-end during the Epitech Jam 1 *(team of 5)*
 - [Parallel_Empires](https://github.com/mathematisse/JAM-Parallele): A game made in a week-end during the Epitech Jam 2 *(team of 3)*
 
