@@ -11,7 +11,6 @@ I'm Lucien, a developer with a passion for open-ended evolution
 - [Eplex Publications](http://eplex.cs.ucf.edu/publications) *(Neat to DeepHyperNeat publications)*.
 
 ### Projects
-#### Get a better look in my [Portfolio](https://mathematisse.github.io/Portfolio/) !
 #### Tools
 - [UML_to_C](link-to-project-1): A generator of .c and .h files from a special class-diagram
 - [Libmycode](https://github.com/mathematisse/Libmycode): My personnal C library documented with doxygen
